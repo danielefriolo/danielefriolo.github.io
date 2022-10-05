@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniele Friolo Academic Website"
+title                    : "Daniele Friolo - Cryptographer"
 title_separator          : "-"
 name                     : &name "Daniele Friolo"
 description              : &description "I work on cryptography. Main interests are towards Multi-Party Computation, Zero-Knowledge, and blockchain applications."
