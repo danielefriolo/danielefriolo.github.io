@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniele Friolo - Cryptographer"
 title_separator          : "-"
 name                     : &name "Daniele Friolo"
-description              : &description "I work on cryptography. Main interests are towards Multi-Party Computation, Zero-Knowledge, and blockchain applications."
+description              : &description "I work on cryptography. My main interests are towards Multi-Party Computation, Zero-Knowledge, and blockchain applications."
 url                      : https://danielefriolo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielefriolo/danielefriolo.github.io"
@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Daniele Friolo"
   avatar           : "DF 2.jpg"
-  bio              : "I work on cryptography. Main interests are towards Multi-Party Computation, Zero-Knowledge, and blockchain applications."
-  location         : "Sapienza University of Rome"
-  employer         :
+  bio              : "I work on cryptography. My main interests are towards Multi-Party Computation, Zero-Knowledge, and blockchain applications.
+  I am currently a Postdoc at Sapienza University of Rome"
+  location         : "Sapienza University of Rome, Rome, Italy"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LbLpDxsAAAAJ&hl=it"
   email            :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/daniele-friolo-280b9743/"
   orcid            : "https://orcid.org/0000-0003-0836-1735"
   pinterest        :
   soundcloud       :
