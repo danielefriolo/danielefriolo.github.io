@@ -8,7 +8,7 @@ date: 2022-11-01
 location: "Rome, Italy"
 ---
 
-Security is Software Applications slides material.
+Security in Software Applications study material.
 
 11 Oct
 ======
