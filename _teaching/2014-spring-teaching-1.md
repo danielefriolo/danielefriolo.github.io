@@ -12,8 +12,3 @@ location: "Rome, Italy"
 11 Oct 
 ======
 
-Heading 2
-======
-
-Heading 3
-======
