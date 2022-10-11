@@ -13,4 +13,4 @@ Security in Software Applications study material.
 11 Oct
 ======
 
-[Course Information](http://danielefriolo.github.io/files/info course.pdf)
+[Course Information](http://danielefriolo.github.io/files/info_course.pdf)
