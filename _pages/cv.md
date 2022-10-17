@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The curriculum pdf in Europass format can be found [Here](http://danielefriolo.github.io/files/DanieleFriolo_CV.pdf)
+The curriculum pdf in Europass format can be found [here](http://danielefriolo.github.io/files/DanieleFriolo_CV.pdf).
 
 Education
 ======
