@@ -2,7 +2,7 @@
 title: "Multi-key and multi-input predicate encryption from learning with errors"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-date: 2022
+date: 2022-10-01
 venue: 'EUROCRYPT 22'
 paperurl: 'https://eprint.iacr.org/2022/806.pdf'
 citation: 'Francati, D., Friolo, D., Malavolta, G., & Venturi, D. (2023, April). Multi-key and multi-input predicate encryption from learning with errors. In Annual International Conference on the Theory and Applications of Cryptographic Techniques (pp. 573-604). Cham: Springer Nature Switzerland.'
