@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 3"
+title: "Efficient proofs of knowledge for threshold relations"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2022-10-01
+venue: 'ESORICS 22'
+paperurl: 'https://eprint.iacr.org/2022/746.pdf'
+citation: 'Avitabile, G., Botta, V., Friolo, D., & Visconti, I. (2022, September). Efficient proofs of knowledge for threshold relations. In European Symposium on Research in Computer Security (pp. 42-62). Cham: Springer Nature Switzerland.
+'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Recently, there has been great interest towards constructing efficient zero-knowledge proofs for prac-
+tical languages. In this work, we focus on proofs for threshold relations, in which the prover is required
+to prove knowledge of witnesses for k out of l statements.
+The main contribution of our work is an efficient and modular transformation that starting from a
+large class of Σ-protocols and a corresponding threshold relation R_k,l provides an efficient Σ-protocol
+for Rk,` with improved communication complexity w.r.t. prior results. Moreover, our transformation
+preserves statistical/perfect honest-verifier zero knowledge.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://eprint.iacr.org/2022/746.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Avitabile, G., Botta, V., Friolo, D., & Visconti, I. (2022, September). Efficient proofs of knowledge for threshold relations. In European Symposium on Research in Computer Security (pp. 42-62). Cham: Springer Nature Switzerland.
