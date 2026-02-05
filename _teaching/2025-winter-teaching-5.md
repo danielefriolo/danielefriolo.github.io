@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "Rome, Italy"
 ---
 
-The second exam of the winter session will be at Aula 3 De Lollis (Via Tiburtina 205 entrance) at 15.00. The exam lasts 2 hours.
+The second exam of the winter session will be 12 February 2026 at Aula 3 De Lollis (Via Tiburtina 205 entrance) at 15.00. The exam lasts 2 hours.
 As a substitution for Google Classroom, results will be published in this page.
 
 You can find the exam schedule [here](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRNStERU3HHasfA0g2U_GG-lbwWho9fZ6r-iN08FGbJZtqUmEdvBPL7nv7P-YiKMimmVLLcAwyoMkYh/pubhtml?gid=1867867947&single=true)
