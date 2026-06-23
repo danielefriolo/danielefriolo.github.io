@@ -1,7 +1,7 @@
 ---
 title: "Data Redaction in Smart-Contract-Enabled Permissioned Blockchains"
 collection: publications
-permalink: /publications/2024-01-01-Data-Redaction-in-Smart-Contract-Enabled-Permissioned-Blockchains
+permalink: /_publications/2024-01-01-Data-Redaction-in-Smart-Contract-Enabled-Permissioned-Blockchains
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the Sixth Distributed Ledger Technology Workshop (DLT 2024), Turin, Italy, May 14-15, 2024'
 paperurl: 'https://ceur-ws.org/Vol-3791/paper9.pdf'

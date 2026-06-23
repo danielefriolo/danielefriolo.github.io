@@ -1,7 +1,7 @@
 ---
 title: "Efficient Proofs of Knowledge for Threshold Relations"
 collection: publications
-permalink: /publications/2022-01-01-Efficient-Proofs-of-Knowledge-for-Threshold-Relations
+permalink: /_publications/2022-01-01-Efficient-Proofs-of-Knowledge-for-Threshold-Relations
 date: 2022-01-01
 venue: 'In the proceedings of Computer Security - ESORICS 2022 - 27th European Symposium on Research in Computer Security, Copenhagen, Denmark, September 26-30, 2022, Proceedings, Part III'
 paperurl: 'https://doi.org/10.1007/978-3-031-17143-7_3'

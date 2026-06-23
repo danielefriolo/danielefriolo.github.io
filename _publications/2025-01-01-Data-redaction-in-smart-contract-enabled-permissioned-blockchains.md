@@ -1,7 +1,7 @@
 ---
 title: "Data redaction in smart-contract-enabled permissioned blockchains"
 collection: publications
-permalink: /publications/2025-01-01-Data-redaction-in-smart-contract-enabled-permissioned-blockchains
+permalink: /_publications/2025-01-01-Data-redaction-in-smart-contract-enabled-permissioned-blockchains
 date: 2025-01-01
 venue: 'Blockchain: Research and Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2096720925000909'

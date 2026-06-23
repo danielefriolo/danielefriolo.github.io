@@ -1,7 +1,7 @@
 ---
 title: "Multi-key and Multi-input Predicate Encryption from Learning with Errors"
 collection: publications
-permalink: /publications/2023-01-01-Multi-key-and-Multi-input-Predicate-Encryption-from-Learning-with-Errors
+permalink: /_publications/2023-01-01-Multi-key-and-Multi-input-Predicate-Encryption-from-Learning-with-Errors
 date: 2023-01-01
 venue: 'In the proceedings of Advances in Cryptology - EUROCRYPT 2023 - 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Lyon, France, April 23-27, 2023, Proceedings, Part III'
 paperurl: 'https://doi.org/10.1007/978-3-031-30620-4_19'
