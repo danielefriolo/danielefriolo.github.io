@@ -1,7 +1,7 @@
 ---
 title: "Cryptographic and Financial Fairness"
 collection: publications
-permalink: /publication/2022-01-01-Cryptographic-and-Financial-Fairness
+permalink: /publications/2022-01-01-Cryptographic-and-Financial-Fairness
 date: 2022-01-01
 venue: 'IEEE Trans. Inf. Forensics Secur.'
 paperurl: 'https://doi.org/10.1109/TIFS.2022.3198852'

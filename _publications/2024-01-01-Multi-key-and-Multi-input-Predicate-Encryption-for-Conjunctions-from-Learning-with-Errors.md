@@ -1,7 +1,7 @@
 ---
 title: "Multi-key and Multi-input Predicate Encryption (for Conjunctions) from Learning with Errors"
 collection: publications
-permalink: /publication/2024-01-01-Multi-key-and-Multi-input-Predicate-Encryption-for-Conjunctions-from-Learning-with-Errors
+permalink: /publications/2024-01-01-Multi-key-and-Multi-input-Predicate-Encryption-for-Conjunctions-from-Learning-with-Errors
 date: 2024-01-01
 venue: 'J. Cryptol.'
 paperurl: 'https://doi.org/10.1007/s00145-024-09504-7'
