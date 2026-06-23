@@ -1,7 +1,7 @@
 ---
 title: "Stealth and Beyond: Attribute-Driven Accountability in Bitcoin Transactions"
 collection: publications
-permalink: /publication/2026-01-01-Stealth-and-Beyond-Attribute-Driven-Accountability-in-Bitcoin-Transactions
+permalink: /publications/2026-01-01-Stealth-and-Beyond-Attribute-Driven-Accountability-in-Bitcoin-Transactions
 date: 2026-01-01
 venue: 'In the proceedings of ACNS 2026, Stonybrook, NY, USA'
 paperurl: 'https://eprint.iacr.org/2024/1789'
