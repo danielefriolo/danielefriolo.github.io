@@ -1,7 +1,7 @@
 ---
 title: "Compact Proofs of Partial Knowledge for Overlapping CNF Formulae"
 collection: publications
-permalink: /_publications/2025-01-01-Compact-Proofs-of-Partial-Knowledge-for-Overlapping-CNF-Formulae
+permalink: /publication/2025-01-01-Compact-Proofs-of-Partial-Knowledge-for-Overlapping-CNF-Formulae
 date: 2025-01-01
 venue: 'J. Cryptol.'
 paperurl: 'https://doi.org/10.1007/s00145-024-09532-3'
