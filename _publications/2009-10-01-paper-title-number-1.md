@@ -18,3 +18,5 @@ In this paper, we generalize the notion of registered encryption to the setting 
 [Download paper here](https://eprint.iacr.org/2023/395.pdf)
 
 Recommended citation: Francati, D., Friolo, D., Maitra, M., Malavolta, G., Rahimi, A., & Venturi, D. (2023). Registered (Inner-Product) Functional Encryption. ASIACRYPT 2023 (To appear).
+
+ <script src="https://bibbase.org/show?bib=https://danielefriolo.github.io/blob/master/_publications/publications.bib&jsonp=1"></script> 
