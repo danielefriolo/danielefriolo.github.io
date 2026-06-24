@@ -13,7 +13,7 @@ redirect_from:
   data="{{ site.baseurl }}/files/DanieleFriolo_CV.pdf"
   type="application/pdf"
   width="100%"
-  height="600px">
+  height="1200px">
   <p>
     Your browser cannot display PDFs.
     <a href="{{ site.baseurl }}/files/DanieleFriolo_CV.pdf">Download the CV</a>.
