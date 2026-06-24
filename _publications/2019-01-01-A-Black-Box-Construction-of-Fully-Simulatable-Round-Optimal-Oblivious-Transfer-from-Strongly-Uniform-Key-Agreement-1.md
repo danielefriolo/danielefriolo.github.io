@@ -1,6 +1,7 @@
 ---
 title: "A Black-Box Construction of Fully-Simulatable, Round-Optimal Oblivious Transfer from Strongly Uniform Key Agreement"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-A-Black-Box-Construction-of-Fully-Simulatable-Round-Optimal-Oblivious-Transfer-from-Strongly-Uniform-Key-Agreement-1
 date: 2019-01-01
 venue: 'Theory of Cryptography - 17th International Conference, TCC 2019, Nuremberg, Germany, December 1-5, 2019, Proceedings, Part I'
